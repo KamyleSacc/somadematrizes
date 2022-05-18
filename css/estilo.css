@@ -1,0 +1,27 @@
+#a{
+    background-color: rgb(132, 192, 145);
+    text-align: center;
+    color: white;
+}
+#apr{
+    color:blue;
+}
+#ex{
+    color:rgb(255, 123, 0);
+}
+#rep{
+    color:red;
+}
+h3{
+    color: rgb(132, 192, 145);
+}
+th{ 
+    background-color: rgb(132, 192, 145);
+    color: white;
+
+}
+
+tr:nth-child(even) {
+  background:rgb(132, 192, 145);
+  color: white;
+}
